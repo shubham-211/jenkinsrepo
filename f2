@@ -1,0 +1,6 @@
+a=input("please enter your name :")
+b=input("please enter your mobile number:")
+
+print(f"my name is {a} and my mobile number is {b}")
+
+print("tata")
